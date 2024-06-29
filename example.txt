@@ -1,0 +1,96 @@
+处理商品 1
+{'title': '购机送碎屏险Redmi Turbo 3 新品红米turbo3 新系列小米旗舰官网红米', 'img_src': 'https://img.alicdn.com/imgextra/i1/5479368854/O1CN01qjgzUf2FHBjIcajDG_!!0-saturn_solar.jpg_360x360q90.jpg_.webp'}
+处理商品 2
+{'title': '16G+512G遥遥领先官方旗舰正品2024全新双屏智能手机5G全网通八核游戏超薄大屏电竞学生价备用工作机老人', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01vXQM3a1mQEhUCIR60_!!2206588314948-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 3
+{'title': '【1024GB】官方旗舰正品M60Pro MaX智能手机2024新款5G全网通大屏安卓备用机老年老人机便宜百元机学生价游戏', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01dijizJ2LY1zN7Ctc2_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 4
+{'title': '【16GB+1TB】官方旗舰全新正品M80pro智能手机2024新款5G全网通大屏安卓备用机老年老人机便宜百元学生价游戏', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN019eERRF1mQEhE1sgfm_!!2206588314948-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 5
+{'title': '官方旗舰店!华为HMS服务5G智能手机!512G内存,6.5寸大屏', 'img_src': 'https://img.alicdn.com/imgextra/i1/771054577/O1CN01cpBo2b1jgJkZWAe84_!!771054577-0-alimamacc.jpg_360x360q90.jpg_.webp'}
+处理商品 6
+{'title': '【1024GB】官方旗舰正品M60Pro MaX智能手机2024新款5G全网通大屏安卓备用机老年老人机便宜百元机学生价游戏', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01rNwRfe2LY1zkICUzu_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 7
+{'title': '遥遥领先|官方正品全新IP70 PRO MAX智能手机2024新款电竞游戏大屏5G全网通安卓备用机老人机学生便宜百元机', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01ctjotz1mQEhX0NsXv_!!2206588314948-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 8
+{'title': '官方正品旗舰2024全新16+512G电竞八核游戏智能手机安卓5G全网通学生价千元超薄超大屏备用机老年人机工作室', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01Y8e9c31mQEhY7lqti_!!2206588314948-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 9
+{'title': '数字车钥匙改装离车自动上锁NFC汽车钥匙手机蓝牙控车无钥匙进入', 'img_src': 'https://img.alicdn.com/imgextra/i1/54059791/O1CN01Cx3P4o2MCKonIU80Q_!!0-saturn_solar.jpg_360x360q90.jpg_.webp'}
+处理商品 10
+{'title': '官方旗舰正品2024年全新60pro超薄大屏电竞八核游戏智能12G+256G大内存学生价便宜千百元备用机5G全网通', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01UznhIf1h1tZJVFqYA_!!2206584264218-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 11
+{'title': '512G遥遥领先官方旗舰正品2024全新双屏智能手机5G全网通八核游戏超薄大屏电竞学生价备用工作机老人机', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01cQRlYF2LY1zihRhxE_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 12
+{'title': '官方旗舰正品2024年全新安卓智能手机60Pro Max电竞八核游戏12G+1024G大内存学生价便宜千百元备用机5G全网通', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01LfUdhs2LY1zeOFSya_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 13
+{'title': '【16GB+1TB】官方旗舰正品i15pro max全新智能手机2024新款5G全网通大屏安卓备用机老人机便宜百元学生价游戏', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01L53koN1mQEhNkENkp_!!2206588314948-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 14
+{'title': '苹果15Plus国行手机iphone正品新款新品256g原封机512g全新未拆封未激', 'img_src': 'https://img.alicdn.com/imgextra/i4/5930513574/O1CN01sCb1Cv1cGwVQExcZe_!!0-saturn_solar.jpg_360x360q90.jpg_.webp'}
+处理商品 15
+{'title': '【16GB+1TB】官方旗舰正品i15pro max全新智能手机2024新款5G全网通大屏安卓备用机老人机便宜百元学生价游戏', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN014xXbhG1mQEhUIogO5_!!2206588314948-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 16
+{'title': '官方正品512GB智能手机i16proMAX搭载华为HMS生态服务5G全网通安卓学生价千元机大屏幕老人机新品办公备用机', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01C2014G2LY1zZ8w6YV_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 17
+{'title': '官方旗舰正品2024年全新60pro超薄大屏电竞八核游戏智能12G+256G大内存学生价便宜千百元备用机5G全网通', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01FhHDh22LY1zJ1pQks_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 18
+{'title': '玩家国度ROG8 游戏手机 电竞游戏 手机骁龙旗舰 败家之眼ROG8PRO', 'img_src': 'https://img.alicdn.com/imgextra/i3/11384764/O1CN01xz48ri1l3xoh3bXjA_!!0-saturn_solar.jpg_360x360q90.jpg_.webp'}
+处理商品 19
+{'title': '智能i15pro商务6.8寸屏全网通5G智能双卡高清高清手机', 'img_src': 'https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2998913279/O1CN01ji2qN61a5pejUjdPm_!!2998913279.jpg_360x360q90.jpg_.webp'}
+处理商品 20
+{'title': '官方正品2024新款i15pro智能手机便宜百元学生游戏5G全网通备用机', 'img_src': 'https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2216256870534/O1CN01V4DLHb1FocSn53f3W_!!2216256870534.jpg_360x360q90.jpg_.webp'}
+处理商品 21
+{'title': '5g新款M60pro手机官方正品旗舰店学生专用智能备用机百元便宜安卓', 'img_src': 'https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/2200628393681/O1CN01LCZacO1d3wsl4ETWx_!!2200628393681.jpg_360x360q90.jpg_.webp'}
+处理商品 22
+{'title': '【正品全新】M800智能双卡双待全网通5G手机游戏便宜学生价备用机', 'img_src': 'https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2998913279/O1CN01UtQK2i1a5pejdwYD7_!!2998913279.jpg_360x360q90.jpg_.webp'}
+处理商品 23
+{'title': '日立超短焦投影仪家用办公会议教学网课高清', 'img_src': 'https://img.alicdn.com/imgextra/i3/33735622/O1CN01KoWF0p1rOvWQQwLJv_!!0-saturn_solar.jpg_360x360q90.jpg_.webp'}
+处理商品 24
+{'title': '2024新款正品15promax电竞游戏智能手机5G全网通学生价512G大内存', 'img_src': 'https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2208035104795/O1CN01ubMLJC1lIA2vEsDt5_!!2208035104795.jpg_360x360q90.jpg_.webp'}
+处理商品 25
+{'title': '16+512G官方正品i14安卓电竞游戏便宜学生价智能手机备用5G全网通', 'img_src': 'https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2214425977935/O1CN01AUc7U928UHk5LuXfM_!!2214425977935.jpg_360x360q90.jpg_.webp'}
+处理商品 26
+{'title': '官方旗舰正品2024年新款m60promax智能手机大屏电竞游戏512GB大内存学生便宜百元备用机5G全网通适用华为荣耀', 'img_src': 'https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/2206503209342/O1CN01N805QN2Ish0hyKHol_!!0-item_pic.jpg_360x360q90.jpg_.webp'}
+处理商品 27
+{'title': '五匹osopro摩托车标准金属管专用无线充电直连螃蟹减震手机支架', 'img_src': 'https://img.alicdn.com/imgextra/i3/119375415/O1CN01OCUoC91ps7e5L74bv_!!0-saturn_solar.jpg_360x360q90.jpg_.webp'}
+处理商品 28
+{'title': 'viipoo全新原封官方正品百元学生价大屏电竞游戏5g全网通智能', 'img_src': 'https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/2057037746/O1CN01vvnZhY275iq7VEy6l_!!2057037746.jpg_360x360q90.jpg_.webp'}
+处理商品 29
+{'title': '【官方正品】2024全新15promax电竞游戏12+512G智能5G全网通千百元学生价超薄6.8寸大屏备用机老人机', 'img_src': 'https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2217017272828/O1CN01oiPdy21WlH2Yhfz77_!!0-item_pic.jpg_360x360q90.jpg_.webp'}
+处理商品 30
+{'title': '原装正品16G+1TB超高清大屏M60智能手机全网通5G安卓商务游戏', 'img_src': 'https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/1859291890/O1CN01GA7iLZ1PpfWascIUI_!!1859291890.jpg_360x360q90.jpg_.webp'}
+处理商品 31
+{'title': '官方旗舰正品2024年新款i15promax智能手机大屏电竞游戏学生便宜百元备用机512GB大内存5G全网通适用华为荣耀', 'img_src': 'https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2206503209342/O1CN01GYfCrx2Ish0gNc9r2_!!0-item_pic.jpg_360x360q90.jpg_.webp'}
+处理商品 32
+{'title': '适用奥迪A6L手机专用支架车载A1A3A4A5A7A8车内装饰用品Q2Q3Q7Q5L', 'img_src': 'https://img.alicdn.com/imgextra/i2/3274994042/O1CN01UxoE5D1fjHriyvcfn_!!0-saturn_solar.jpg_360x360q90.jpg_.webp'}
+处理商品 33
+{'title': '正品旗舰2024全新12+512G电竞八核游戏智能手机安卓5G全网通学生', 'img_src': 'https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/2207003314400/O1CN01ShgX7e1iNFcupd6wl_!!2207003314400.jpg_360x360q90.jpg_.webp'}
+处理商品 34
+{'title': '16+512G官方正品i14电竞游戏学生价安卓便宜备用智能手机5G全网通', 'img_src': 'https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2206685583263/O1CN01NZzQbQ1ZyVJxiLRYL_!!2206685583263.jpg_360x360q90.jpg_.webp'}
+处理商品 35
+{'title': '官方旗舰2024年全新60pro正品超薄大屏电竞八核游戏智能12G+512G大内存学生价便宜千百元备用机5G全网通', 'img_src': 'https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/2216369544998/O1CN01oLulfV1mn8UylGvT9_!!0-item_pic.jpg_360x360q90.jpg_.webp'}
+处理商品 36
+{'title': '分期免息/送豪华礼 HUAWEI/华为P50 Pro 12+512GB新款X50i+旗舰5G', 'img_src': 'https://img.alicdn.com/imgextra/i4/4103434468/O1CN01TxL1gL1isOY9m48mR_!!4103434468-0-alimamacc.jpg_360x360q90.jpg_.webp'}
+处理商品 37
+{'title': '512G官方旗舰全新5G正品畅玩游戏八核智能手机全网通安卓搭载华为HMS生态服务6.8寸大屏幕备用机双卡双待老人', 'img_src': 'https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/2204178404055/O1CN01ATdgZw1fpF0RngikA_!!0-item_pic.jpg_360x360q90.jpg_.webp'}
+处理商品 38
+{'title': '官方正品旗舰店2024全新512G电竞八核游戏智能手机安卓5G全网通学生价千元超薄超大屏备用机中老年人机工作室', 'img_src': 'https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2204178404055/O1CN01DMB1n81fpEyjNri0X_!!0-item_pic.jpg_360x360q90.jpg_.webp'}
+处理商品 39
+{'title': '【2024年新品上市】原封旗舰官方正品大内存学生价百元超薄高清大屏电竞游戏安卓备用双卡5G全网通智能', 'img_src': 'https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/2201263772063/O1CN01RSD4m21R6u0EYlXw8_!!0-item_pic.jpg_360x360q90.jpg_.webp'}
+处理商品 40
+{'title': '16G+1024G官方旗舰正品2024全新15ProMax电竞游戏智能5G全网通千元便宜学生价6.8大屏八核双卡老人备用机', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01a5D3ay1mQEhWAWrom_!!2206588314948-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 41
+{'title': '智慧熊错题打印机可拍照无需手机初中生高中生专用学生便携式错题', 'img_src': 'https://img.alicdn.com/imgextra/i1/3519188288/O1CN019dXN9i2B5xTURes9U_!!0-saturn_solar.jpg_360x360q90.jpg_.webp'}
+处理商品 42
+{'title': '官方正品旗舰2024全新16+512G电竞八核游戏智能手机安卓5G全网通学生价千元超薄超大屏备用机老年人机工作室', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01RnizIz1mQEhQPWWxI_!!2206588314948-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 43
+{'title': '官方旗舰正品2024年全新安卓智能手机60Pro Max电竞八核游戏12G+1024G大内存学生价便宜千百元备用机5G全网通', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01JPVm4p2LY1zgJq0Wr_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 44
+{'title': '16G+512G遥遥领先官方旗舰店2024全新智能双屏手机5G全网通超大电池超长续航电竞学生价备用工作机老人百', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01MP20dx2LY1zffoDul_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 45
+{'title': '官方正品!华为HMS服务5G智能手机,6.5寸大屏全网通双卡512G内存', 'img_src': 'https://img.alicdn.com/imgextra/i2/1743133904/O1CN0120BRlb1ei5C2S5ALC_!!1743133904-0-alimamacc.jpg_360x360q90.jpg_.webp'}
+处理商品 46
+{'title': '【16GB+1TB】2024新款官方旗舰正品i15pro max全新智能5G游戏全网通大屏安卓备用机老人机便宜百元学生价', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN016de3cQ2LY1zeQ3NpG_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 47
+{'title': '【1024G】官方正品2024新款 IP70 PRO MAX 6.8英寸大屏智能游戏5G全网通安卓备用机老人机学生价便宜百元', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN010eCP7O2LY1zjFKLrG_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
+处理商品 48
+{'title': '官方正品旗舰新款2024年全新八核5G全网通超薄大屏12G+512G内存游戏电竞指纹人脸便宜学生价百元安卓智能', 'img_src': 'https://gw.alicdn.com/imgextra/O1CN01vyo2Su2LY1zQmE0Xx_!!3937219703-0-C2M.jpg_360x360q90.jpg_.webp'}
